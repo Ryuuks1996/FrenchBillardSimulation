@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/ball.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/Billard_Cue.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/Cursor.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/French_Billard_Table.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/Instruction.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/wind.png</File>
+    <File>C:/Users/Ryuk1/source/repos/FrenchBillardSimulation/FrenchBillardSimulation/Content/WindArrow.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

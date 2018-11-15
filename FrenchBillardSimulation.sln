@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2036
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrenchBillardSimulation", "FrenchBillardSimulation\FrenchBillardSimulation.csproj", "{BE3CEC6D-8242-47D4-AC88-A5F6FB4E8034}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE3CEC6D-8242-47D4-AC88-A5F6FB4E8034}.Debug|x86.ActiveCfg = Debug|x86
+		{BE3CEC6D-8242-47D4-AC88-A5F6FB4E8034}.Debug|x86.Build.0 = Debug|x86
+		{BE3CEC6D-8242-47D4-AC88-A5F6FB4E8034}.Release|x86.ActiveCfg = Release|x86
+		{BE3CEC6D-8242-47D4-AC88-A5F6FB4E8034}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC16B374-FF84-4B86-8A3D-8A851F23F1BF}
+	EndGlobalSection
+EndGlobal
